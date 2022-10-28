@@ -1,2 +1,1 @@
-# js_bootcamp
-a repository containing beginner level JavaScript files
+Calendar app,thatshows the current date, month and year
